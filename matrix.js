@@ -79,7 +79,7 @@ let charArr = [
   "Х",
   "Ѱ",
   "Ѿ",
-  "Ц",
+  "(▰˘◡˘▰)",
 ];
 
 let maxCharCount = 300;
